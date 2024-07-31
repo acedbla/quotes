@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('/img/pozadina.jpg');
+    background-image: url('img/pozadina.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     color: #333;
